@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dinge<br>Tech<br>Schnauze
+Electronics Technician in education<br>Most used Hardware:ESP32, NRF52840, Neopixel<br>Builds stuff for fun or Cosplay...or both
 
 
 # 💻 Tech Stack:
