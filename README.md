@@ -24,5 +24,6 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/oracle_network) 
 
-  
+ ## ❤️ Proudly created with GPRM
+ [![GPRM](https://img.shields.io/npm/v/npm.svg?logo=icon)](https://gprm.itsvg.in/) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
