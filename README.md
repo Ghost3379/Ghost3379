@@ -1,5 +1,5 @@
 # 💫 About Me:
-Electronics Technician in education<br>Most used Hardware:ESP32, NRF52840, Neopixel<br>Builds stuff for fun or Cosplay...or both
+Certified Electronics Technician<br>Most used Hardware:ESP32, NRF52840, Neopixel<br>Builds stuff for fun or Cosplay...or both
 
 
 # 💻 Tech Stack:
