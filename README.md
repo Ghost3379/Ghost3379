@@ -1,5 +1,9 @@
 # 💫 About Me:
-Certified Electronics Technician<br>Most used Hardware:ESP32, NRF52840, Neopixel<br>Builds stuff for fun or Cosplay...or both
+* Certified Electronics Technician
+* **Hardware & Prototyping:** Custom PCB design (KiCad), LTspice, Bambu Lab 3D printing.
+* **Core Components:** ESP32-S3, nRF52840, Neopixels, and Raspberry Pi 5.
+* **Projects:** I build embedded electronics for fun, custom Batman cosplay gadgets... or both!
+* *It's geek, not nerd.*
 
 
 # 💻 Tech Stack:
